@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-# Generate synthetic dataset
+# Machine Defect Dataset
 np.random.seed(0)
 machine_ids = ['M1', 'M2', 'M3', 'M4', 'M5']
 data = {
